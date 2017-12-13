@@ -22,4 +22,10 @@ printf("%s" , text1);
 void printtext(string text1, int value)
 {
 //to do
+    //to do
+    for(int i = 0 ; i< value ; i++)
+    {
+        printf("%s",text1);
+    }
+
 }
