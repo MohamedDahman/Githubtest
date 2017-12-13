@@ -16,7 +16,9 @@ int main(void)
 
 void printtext(string text1);
 {
-printf("%s" , text1);
+pintf("%s" , text1);
+
+
 }
 
 void printtext(string text1, int value)
