@@ -16,8 +16,8 @@ int main(void)
 
 void printtext(string text1);
 {
-printf("%s");
 
+printf("%s");
 
 }
 
