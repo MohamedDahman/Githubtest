@@ -16,8 +16,7 @@ int main(void)
 
 void printtext(string text1);
 {
-// to do
-
+printf("%s" , text1);
 }
 
 void printtext(string text1, int value)
